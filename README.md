@@ -7,6 +7,8 @@ The R-Tree is a data structure for querying multidimensional geographic data. It
 
 Main method is rtree.cs
 
+## Status:
+
 This project is in progress, and currently INCOMPLETE.
 It will include methods for creating an RTree from CSV or GeoJSON data, inserting new features into that tree, removing features from the tree, and running bounding box queries.
 
